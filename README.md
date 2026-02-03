@@ -3,11 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   -->
   
-###  :wave: Welcome my github profile !
-  
+##  :wave: Welcome my github profile !
  <br/>
- <br/>
-  
 
  <!--
 #### :pencil2: Study log
@@ -79,7 +76,8 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
-
+-->
+<!--
 <div>
   <!--Body-->
   
