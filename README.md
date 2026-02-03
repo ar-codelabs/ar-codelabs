@@ -1,9 +1,8 @@
 <div align="center"> 
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+  -->
 ####  :wave: Welcome my github profile !
-
   
  <br/>
  <br/>
@@ -26,7 +25,7 @@
  
    <br/>
    <br/>
- 
+ <!--
 #### :pencil2: Study log
  
   <br/>
@@ -39,6 +38,7 @@
 
 
 ## Hi there 👋
+-->
 <!--
 **ar-codelabs/ar-codelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,12 +78,12 @@ Here are some ideas to get you started:
     </div><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
+    <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-codelabs&show_icons=true&theme=radical)    
-
+-->
 <br>
 
-
+<!--
 <div>
   
   <!--Header-->
@@ -103,4 +103,4 @@ Here are some ideas to get you started:
  
 
 </div>
-
+-->
