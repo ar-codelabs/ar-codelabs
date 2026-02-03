@@ -33,6 +33,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: <br/>
+  #### :fire: <br/>
+  #### :mortar_board: 
+  <br/>
+  <br/>
+</div>
 -->
 
 
@@ -71,23 +82,6 @@ Here are some ideas to get you started:
 
 
 <div>
-  
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
 </div>
-
-<!--
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: <br/>
-  #### :fire: <br/>
-  #### :mortar_board: 
-  <br/>
-  <br/>
- 
-
-</div>
--->
